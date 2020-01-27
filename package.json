@@ -1,0 +1,15 @@
+{
+  "name": "Library_Backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/jgabct/Library_Backend.git",
+  "author": "José Gabriel",
+  "license": "MIT",
+  "scripts": {
+    "test":"nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
