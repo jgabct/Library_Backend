@@ -6,10 +6,11 @@
   "author": "José Gabriel",
   "license": "MIT",
   "scripts": {
-    "test":"nodemon"
+    "test": "nodemon"
   },
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^5.8.10",
     "nodemon": "^2.0.2"
   }
 }
